@@ -1,6 +1,6 @@
 # Second 4
 Source code of the Second 4 Interpreter. This repository contains all the necessary scripts to compile to a full installer archive.<br>
-The ready-made installer executable is available in the [Releases](http://github.com/cpythonist/Second4/releases/latest) tab. If you want to build the program yourself, please see the following steps:<br>
+The ready-made installer executable is available in the [Releases](http://github.com/cpythonist/Second4/releases/latest) tab. If you want to build the program yourself, please see the steps under [Building]():<br>
 
 ## Improvements aimed for Second 4:
 - [x] Added commands from previous versions (Second 1 and 2)
@@ -11,13 +11,13 @@ The ready-made installer executable is available in the [Releases](http://github
 - [x] Add update feature.
 - [x] Add functionality to execute terminal commands from Second.<br>
 <br>
-### Building
+## Building:<br>
 1. Install the following applications:<br>
 &emsp;[`Python-3.11.6`](http://python.org/)<br>
 &emsp;[`Inno Setup-6.2.2`](http://jrsoftware.org/)<br>
 <br>
 2. Install the following Python packages (present in `requirements.txt`):<br>
-&emsp;`certifi==2024.2.2`<br>
+  `certifi==2024.2.2`<br>
 &emsp;`Cython==3.0.10`<br>
 &emsp;`fastnumbers==5.1.0`<br>
 &emsp;`idna==3.6`<br>
