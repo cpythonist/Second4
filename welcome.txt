@@ -1,0 +1,8 @@
+Welcome to the Second 4.0 Installer.
+
+This software is a product of Infinite, Inc.
+Copyright (c) Infinite, Inc.
+
+This software is licenced as per the Apache-2.0 License available at https://www.apache.org/licenses/LICENSE-2.0
+
+Please select "Next" to continue.
